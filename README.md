@@ -32,10 +32,6 @@ The results show the following:
 * No nurses are scheduled for more than 1 shift per day.
 * 1 Nurse work four days in a row, and 1 nurse work 3 days in a row. 
 
-Solution energy:  0.0
-1 1 1 1 3 3 3 
-3 3 3 2 2 1 2 
-0 0 0 0 0 0 0 
 
 ## To do 
 
