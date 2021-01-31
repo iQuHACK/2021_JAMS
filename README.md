@@ -26,7 +26,9 @@ Here is the general overview of solving the problem:
 * Print the nurse schedule
 
 ## Results
-
+The results show the following:
+* No nurses are scheduled for more than 1 shift per day.
+* 1 Nurse work four days in a row, and 1 nurse work 3 days in a row. 
 
 ## To do 
 
